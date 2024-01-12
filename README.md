@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HermesE30)](https://github.com/HermesE30a/github-readme-stats)
 <!--
 **HermesE30/HermesE30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
